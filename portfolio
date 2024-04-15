@@ -8,7 +8,7 @@
     <title>Sivatharsan</title>
     <!-- font icons -->
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
-    <!-- Bootstrap + JohnDoe main styles -->
+    <!-- Bootstrap + Sivatharsan main styles -->
 	<link rel="stylesheet" href="assets/css/johndoe.css">
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
@@ -48,15 +48,6 @@
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a href="#portfolio" class="nav-link">Portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#blog" class="nav-link">Blog</a>
-                    </li>
-                    <li class="nav-item last-item">
-                        <a href="#contact" class="nav-link">Contact</a>
-                    </li>
                 </ul>
             </div>
         </div>
@@ -91,9 +82,6 @@
                 <div class="row">
                     <div class="col-1 text-danger pt-1"><i class="ti-widget icon-lg"></i></div>
                     <div class="col-10 ml-auto mr-3">
-                        <h6>UX Design</h6>
-                        <p class="subtitle"> exercitat Repellendus,  corrupt.</p>
-                        <hr>
                     </div>
                 </div>
                 <div class="row">
@@ -107,9 +95,6 @@
                 <div class="row">
                     <div class="col-1 text-danger pt-1"><i class="ti-stats-up icon-lg"></i></div>
                     <div class="col-10 ml-auto mr-3">
-                        <h6>Digital Marketing</h6>
-                        <p class="subtitle">voluptate commodi illo voluptatib.</p>
-                        <hr>
                     </div>
                 </div>
             </div>
@@ -130,7 +115,7 @@
     <!-- Google mpas -->
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtme10pzgKSPeJVJrG1O3tjR6lk98o4w8&callback=initMap"></script>
 
-    <!-- JohnDoe js -->
+    <!-- Sivatharsan js -->
     <script src="assets/js/johndoe.js"></script>
 
 </body>
